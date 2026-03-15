@@ -1,1 +1,1 @@
-# Design-week-1
+# Resolution design
